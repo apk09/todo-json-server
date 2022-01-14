@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Class Components in React"
+    },
+    {
+      "id": 2,
+      "content": "Material UI"
+    },
+    {
+      "id": 3,
+      "content": "DevExtreme Reactive"
+    },
+    {
+      "id": 4,
+      "content": "Go through prototype (UI Designs)"
+    }
+  ]
+}
